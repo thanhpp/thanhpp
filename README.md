@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Personal information 
+
+Name: Phan Phu Thanh.
+
+DOB: 1999..
+
+Nationality: Vietnam. :vietnam:
+
+## Education
+
+School: Hanoi University of Science and Technology.
+
+Major: Software Engineering.
