@@ -21,7 +21,7 @@ Name: Phan Phu Thanh.
 
 DOB: 1999..
 
-Nationality: Vietnam. :vietnam:
+Nationality: Vietnam.
 
 ## Education
 
