@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **ThanhPP/ThanhPP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,16 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Personal information 
+## Personal information: 
 
-Name: Phan Phu Thanh.
+**Name**: Phan Phú Thành.
 
-DOB: 1999..
+**DOB**: 1999.
 
-Nationality: Vietnam.
+**Nationality**: Vietnam.
 
-## Education
+## Education:
 
-School: Hanoi University of Science and Technology.
+**School**: Hanoi University of Science and Technology.
 
-Major: Software Engineering.
+**Major**: Software Engineering.
+
+## Here is my cat:
