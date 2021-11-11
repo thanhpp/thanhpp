@@ -1,21 +1,13 @@
 # Hi there 👋
 
-## CV
+## Curriculum vitae
 - [Vietnamese](thanhppcvvi.pdf)
-
-## Personal information: 
-
-**Name**: Phan Phú Thành.
-
-**DOB**: 1999.
-
-**Nationality**: Vietnam.
 
 ## Education:
 
-**School**: Hanoi University of Science and Technology.
+- **School**: Hanoi University of Science and Technology.
 
-**Major**: Software Engineering.
+- **Major**: Software Engineering.
 
 ## Here is my cat:
 
