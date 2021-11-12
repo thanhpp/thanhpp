@@ -25,10 +25,12 @@
 
 ## Other codes
 ### Algorithm
-- Path finding
-  - [Dijikstra & A Star](https://github.com/thanhpp/HUST_20191_Project1/tree/master/ShortestPaths/ShortestPaths4)
 - Compression
   - [Lempel-Ziv-Welch](https://gist.github.com/thanhpp/2245980b6d7f04e2cd131dbc062d6edb)
+ 
+- Path finding
+  - [Dijikstra & A Star](https://github.com/thanhpp/HUST_20191_Project1/tree/master/ShortestPaths/ShortestPaths4)
+
 - String matching
   - [KMP](https://gist.github.com/thanhpp/cd6f6fe8085c9c338325c8ce3507159e)
   - [Bayer-Moore](https://gist.github.com/thanhpp/db459bd078c941b130476bf7c85dbe3c)
