@@ -22,3 +22,24 @@
 
 ## My cat
 ![](https://github.com/thanhpp/thanhpp/blob/master/IMG_20200721_011757.jpg)
+
+## Other codes
+### Algorithm
+- Path finding
+  - [Dijikstra & A Star](https://github.com/thanhpp/HUST_20191_Project1/tree/master/ShortestPaths/ShortestPaths4)
+- Compression
+  - [Lempel-Ziv-Welch](https://gist.github.com/thanhpp/2245980b6d7f04e2cd131dbc062d6edb)
+- String matching
+  - [KMP](https://gist.github.com/thanhpp/cd6f6fe8085c9c338325c8ce3507159e)
+  - [Bayer-Moore](https://gist.github.com/thanhpp/db459bd078c941b130476bf7c85dbe3c)
+
+### Concurrency
+- [Dining Philosophers](https://github.com/thanhpp/HUST_20182_OS)
+
+### Cryptography
+- [Hacking Many time pad](https://github.com/thanhpp/HUST/tree/main/MMVUD/project1)
+- [Trivium cipher](https://github.com/thanhpp/HUST/tree/main/MMVUD/project2)
+- [Digital Signature](https://github.com/thanhpp/HUST_20191_Cryptography)
+
+### Examples
+- [OAuth2.0](https://github.com/thanhpp/go-oauth2-example)
