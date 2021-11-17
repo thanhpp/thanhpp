@@ -1,6 +1,6 @@
-# Hi there 👋 
+# <p align="center"> Hi there 👋 </p> 
 ### <p align="center"> _My name is Thành. A Back End Developer_ </p> 
-#### <p align="center"> I'm using [Go](https://golang.org/) as my main programing language </p> 
+#### <p align="center"> I'm interested in developing and designing awesome systems <br/> and currently using [Go](https://golang.org/) as my main programming language </p> 
 
 ## My curriculum vitaes
 - [Vietnamese](thanhppcvvi.pdf)
