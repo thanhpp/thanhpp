@@ -45,3 +45,4 @@
 
 ### Examples
 - [OAuth2.0](https://github.com/thanhpp/go-oauth2-example)
+- [AWS Cognito](https://github.com/thanhpp/aws-cognito-example)
