@@ -42,6 +42,7 @@
 - [Hacking Many time pad](https://github.com/thanhpp/HUST/tree/main/MMVUD/project1)
 - [Trivium cipher](https://github.com/thanhpp/HUST/tree/main/MMVUD/project2)
 - [Digital Signature](https://github.com/thanhpp/HUST_20191_Cryptography)
+- [AES CBC & CTR modes](https://github.com/thanhpp/HUST/tree/main/MMVUD/project3)
 
 ### Examples
 - [OAuth2.0](https://github.com/thanhpp/go-oauth2-example)
