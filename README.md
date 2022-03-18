@@ -3,7 +3,7 @@
 #### <p align="center"> I'm interested in developing and designing awesome systems <br/> and currently using [Go](https://golang.org/) as my main programming language </p> 
 
 ## My resume
-- [Vietnamese](https://docs.google.com/document/d/19DLjZS3I2ycP5Ex_eEsGNzpGbOmJI8dUlFUZHP41AY0/edit?usp=sharing)
+- [Vietnamese](https://drive.google.com/file/d/1vTJ0OFyoXSVehPnbUw-bFfbMHh-k6EFN/view?usp=sharing)
 
 ## Education
 
