@@ -4,6 +4,7 @@
 
 ## My resume
 - [Vietnamese](https://drive.google.com/file/d/1vTJ0OFyoXSVehPnbUw-bFfbMHh-k6EFN/view?usp=sharing)
+- [English](https://drive.google.com/file/d/128EN21PvHOlAe7Gr8FuSjA94CnFXBUiv/view?usp=sharing)
 
 ## Education
 
