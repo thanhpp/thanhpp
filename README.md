@@ -1,5 +1,6 @@
 # <p align="center"> 👋 WELCOME 👋 </p> 
 ### <p align="center"> _My name is Thành. A Back End Developer_ </p> 
+### <p align="center"> A Gopher and a super noob Rustaceans </p> 
 #### <p align="center"> I'm interested in developing and designing awesome systems <br/> and currently using [Go](https://golang.org/) as my main programming language </p> 
 
 ## My resume
